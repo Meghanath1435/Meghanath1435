@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Meghanath Tattari
-**Software Engineer with 5+ years of experience designing scalable backend systems and secure microservices. Adept at developing high-performance RESTful APIs and ensuring robust testing within agile, CI/CD environments. Proven track record in building reliable systems for healthcare and financial applications while providing clear technical guidance and mentoring to peers. <img width="468" height="63" alt="image" src="https://github.com/user-attachments/assets/85a72933-baa0-423d-834d-4b0dda15b5d7" />
+**Software Engineer with 5+ years of experience designing scalable backend systems and secure microservices. Adept at developing high-performance RESTful APIs and ensuring robust testing within agile, CI/CD environments. Proven track record in building reliable systems for healthcare and financial applications while providing clear technical guidance and mentoring to peers. />
 **
 
 ## 🌐 Socials:
